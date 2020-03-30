@@ -1,0 +1,6 @@
+{
+    "cmake.configureArgs": [
+        "-DINSTALL_LAYOUT=DEFAULT",
+        "-DCMAKE_INSTALL_PREFIX=..\\share\\${buildKit}\\${buildType}"
+    ]
+}
